@@ -12,3 +12,9 @@ ______      __ _       _ _       _      _____      _             __             
 <br>
 REST API에 인터페이스를 만듭니다.
 ![d](di.png)
+
+Interfaces
+----
+* __[YQL]__
+* __Naver__
+  *[Translate]
